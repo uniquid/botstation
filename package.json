@@ -1,0 +1,28 @@
+{
+  "name": "botstation",
+  "version": "0.0.1",
+  "description": "Tiny framework to build your own chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/uniquid/botstation.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "facebook",
+    "messenger",
+    "chatops",
+    "chatbot",
+    "automation"
+  ],
+  "author": "Alessio Biancalana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uniquid/botstation/issues"
+  },
+  "homepage": "https://github.com/uniquid/botstation#readme"
+}
