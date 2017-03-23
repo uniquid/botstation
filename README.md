@@ -34,5 +34,5 @@ bot.start(() => {
 You can configure tasks to match in several ways with incoming messages:
 
 - `isMessage`: Checks if the incoming message is strictly equal to the specified content
-- `beginWith`: Checks if an incoming message begins with the specified content string
+- `beginsWith`: Checks if an incoming message begins with the specified content string
 - `isJoining`: Looks for channel joining events in incoming messages, so the bot can advertise itself
